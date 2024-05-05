@@ -1,0 +1,6 @@
+Proceso Numeros_Impares
+	Definir i Como Entero;
+	Para i <- 99 Hasta 1 Con Paso -2 Hacer
+		Escribir i;
+	Fin Para
+FinProceso
